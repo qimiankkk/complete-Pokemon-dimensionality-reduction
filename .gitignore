@@ -1,0 +1,21 @@
+pokemon_implementation_plan.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Project
+sprite_manifest.json
+pokemon_latent_export.zip
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

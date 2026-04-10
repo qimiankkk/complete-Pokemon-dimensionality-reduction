@@ -1,0 +1,21 @@
+# Core
+streamlit>=1.35.0
+streamlit-plotly-events>=0.0.6
+
+# ML
+torch>=2.3.0
+pytorch-lightning>=2.3.0
+scikit-learn>=1.5.0
+hdbscan>=0.8.38
+scipy>=1.13.0
+
+# Data
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Visualization
+plotly>=5.22.0
+
+# Utilities
+requests>=2.32.0
+tqdm>=4.66.0
