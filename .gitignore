@@ -19,3 +19,5 @@ pokemon_latent_export.zip
 
 # OS
 .DS_Store
+
+checkpoints/
